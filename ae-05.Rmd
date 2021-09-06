@@ -292,7 +292,7 @@ flights %>%
             sd_dep_delay = sd(dep_delay, na.rm = TRUE))
 ```
 
-- **Question 5 (4 minutes)**: What is the median departure delay for each airport in NYC (`origin`)? Which airport has the shortest median departure delay? Submit your response on Ed Discussion: https://edstem.org/us/courses/8027/discussion/590091
+- **Question 5 (4 minutes)**: What is the median departure delay for each airports around NYC (`origin`)? Which airport has the shortest median departure delay? Submit your response on Ed Discussion: https://edstem.org/us/courses/8027/discussion/590091
 
 ```{r dep-origin}
 ## add code
